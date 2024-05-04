@@ -1,6 +1,6 @@
 # Long-HOT
 
-This is the repository that contains source code for the [Long-HOT](https://nnsriram97.github.io/LongHOT).
+This is the repository that contains webpage contents for the [Long-HOT](https://nnsriram97.github.io/longhot).
 
 
 # Website License
